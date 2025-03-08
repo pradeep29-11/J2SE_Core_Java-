@@ -16,9 +16,14 @@ class CircleArea
 }
 public class Circle
 {
-	public static void main(String args[])
+	public static void main(String args[])throws Exception
 	{
-		CircleArea ob = new CircleArea(5);
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+		System.out.print("Enter the Radius of the circle : ");
+		double r = Double.parseDouble(br.readLine());
+
+		CircleArea ob = new CircleArea(r);
 
 		System.out.println("Area of Circle : "+ob.getArea());
 	}
