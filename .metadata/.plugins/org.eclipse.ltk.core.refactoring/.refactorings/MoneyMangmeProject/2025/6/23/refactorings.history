@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MoneyMangmeProject/src/com/tca/dao/rs.txt&apos; to &apos;rs.csv&apos;" description="Rename resource &apos;rs.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/tca/dao/rs.txt" name="rs.csv" stamp="1748836414372" updateReferences="true"/>
+</session>

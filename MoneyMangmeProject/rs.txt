@@ -1,0 +1,8 @@
+2025-06-01,salary,12000.0,true
+2025-06-01,bonus,1000.0,false
+2025-06-01,salary,12000.0,false
+2025-06-01,salary,12000.0,true
+2025-06-01,salary,12000.0,true
+2025-06-01,salary,12000.0,true
+2025-06-01,salary,12000.0,true
+2025-06-01,salary,12000.0,false
