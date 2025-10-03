@@ -25,7 +25,7 @@ public class CircleA
 		Circle ob = new Circle(5);
 		ob.areaCircle();
 
-		Perimeter ob = new Circle(5);
+		Perimeter ob = new Perimeter(5);
         ob.perimeterCircle();
 	}
 }
